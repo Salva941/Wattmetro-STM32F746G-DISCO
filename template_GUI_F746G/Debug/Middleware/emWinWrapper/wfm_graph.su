@@ -1,0 +1,13 @@
+wfm_graph.c:96:13:_UserDraw	56	static
+wfm_graph.c:133:13:_cbDialog	32	static
+wfm_graph.c:230:6:DIALOG_init	24	static
+wfm_graph.c:252:6:GUI_poll	8	static
+wfm_graph.c:258:5:max_value	24	static
+wfm_graph.c:272:6:GUI_DrawChart	40	static
+wfm_graph.c:293:5:GUI_DrawChartAutoscale	48	static
+wfm_graph.c:319:6:GUI_setOrizzontalScale	24	static
+wfm_graph.c:325:6:GUI_setVerticalScale	24	static
+wfm_graph.c:332:6:GUI_setOrizzontalAxisLabel	16	static
+wfm_graph.c:337:6:GUI_setVerticalAxisLabel	16	static
+wfm_graph.c:342:6:GUI_setTextValue	16	static
+wfm_graph.c:351:6:bhooo	16	static

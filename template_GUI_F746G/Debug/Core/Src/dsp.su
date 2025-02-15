@@ -1,0 +1,5 @@
+dsp.c:12:7:calculate_RMS	32	static
+dsp.c:26:7:calculate_mean	32	static
+dsp.c:39:6:HAL_ADC_ConvHalfCpltCallback	16	static
+dsp.c:54:6:HAL_ADC_ConvCpltCallback	16	static
+dsp.c:67:6:elabora	24	static

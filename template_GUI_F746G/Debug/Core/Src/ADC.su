@@ -1,0 +1,9 @@
+ADC.c:23:6:adc_init	8	static
+ADC.c:34:13:MX_DMA_Init	16	static
+ADC.c:49:13:MX_ADC1_Init	24	static
+ADC.c:89:13:MX_ADC3_Init	24	static
+ADC.c:131:13:MX_TIM7_Init	24	static
+ADC.c:164:6:HAL_ADC_MspInit	48	static
+ADC.c:258:6:TIM7_IRQHandler	4	static
+ADC.c:271:6:DMA2_Stream4_IRQHandler	8	static
+ADC.c:274:6:DMA2_Stream1_IRQHandler	8	static

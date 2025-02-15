@@ -1,0 +1,4 @@
+fft.c:20:6:calc_windows	24	static
+fft.c:38:6:windows_mult	16	static
+fft.c:66:6:init_fft	8	static
+fft.c:72:6:FFT	40	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+trigger.c:10:10:CrossNegative	24	static
+trigger.c:34:10:CrossPositive	24	static
+trigger.c:58:10:Cross	24	static
+trigger.c:70:10:ReverseCrossPositive	24	static
+trigger.c:91:10:ReverseCrossNegative	24	static
+trigger.c:113:10:ReverseCross	24	static

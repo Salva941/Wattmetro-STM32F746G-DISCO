@@ -1,0 +1,5 @@
+mtouch.c:15:20:MTOUCH_CalculateDelta	24	static
+mtouch.c:21:18:MTOUCH_DecodeGesture_1Point	16	static
+mtouch.c:45:18:MTOUCH_DecodeGesture_2Point	32	static
+mtouch.c:74:6:MTOUCH_GetGesture	16	static
+mtouch.c:101:6:MTOUCH_AddTouchData	24	static

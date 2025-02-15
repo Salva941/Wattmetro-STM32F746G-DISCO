@@ -1,0 +1,6 @@
+emWinWrapper.c:27:6:GUI_initialize	24	static
+emWinWrapper.c:94:6:BSP_Pointer_Update	64	static
+emWinWrapper.c:142:6:BSP_Background	8	static
+emWinWrapper.c:160:6:TIM3_IRQHandler	8	static
+emWinWrapper.c:179:6:LTDC_IRQHandler	8	static
+emWinWrapper.c:184:6:GUI_IncTick	4	static
